@@ -10,6 +10,7 @@ anime.csv - badly formatted csv file that will be used to create the anime table
 # GIF Resources
 
 located in /res/gifs
-contain all the gif files used in the project
+
+contains all the gif files used in the project
 
 
