@@ -1,5 +1,5 @@
-# Fullstack React Tutorial
-Resources for the Fullstack React Tutorial on youtube.
+# Anime App React Tutorial
+Resources for the Anime App React Tutorial on youtube.
 Learn to create an anime app with React!
 
 https://youtu.be/gxxmmebFZWY
