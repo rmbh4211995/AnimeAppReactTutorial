@@ -1,11 +1,20 @@
-# ReactTutorialCsv
-CSV files for the fullstack react tutorial on youtube.
+# Fullstack React Tutorial
+Resources for the Fullstack React Tutorial on youtube.
+Learn to create an anime app with React!
 
 https://youtu.be/gxxmmebFZWY
 
 # CSVs
 
-anime.csv - badly formatted csv file that will be used to create the anime table for our mysql database
+located in /csv
+anime.csv - badly formatted csv file used with papaparse to create animeTable.csv
+
+animeTable.csv - data for all anime
+animeGenreTable.csv - data for all anime to genre mappings
+genresTable.csv - data for all anime genres
+reviewsTable.csv - data for all reviews for each anime
+userReviewTable.csv - data for all user to review mappings
+usersTable.csv - data for all users in application
 
 # GIF Resources
 
