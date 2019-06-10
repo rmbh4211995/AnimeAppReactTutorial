@@ -7,6 +7,7 @@ https://youtu.be/gxxmmebFZWY
 # CSVs
 
 located in /csv
+
 anime.csv - badly formatted csv file used with papaparse to create animeTable.csv
 
 animeTable.csv - data for all anime
